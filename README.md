@@ -1,8 +1,8 @@
 # AI_Project
 
 ## Actividad Formativa: GitHub Copilot
-
-**Nombre:** Sebastian araya piro  
+  
+**Nombre:** Sebastian Araya Piro  
 **Carrera:** Ingeniería en Informática  
 **Asignatura:** Tendencias Emergentes en Inteligencia Artificial
 
