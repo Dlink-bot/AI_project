@@ -2,7 +2,7 @@
 
 ## Actividad Formativa: GitHub Copilot
 
-**Nombre:** TU NOMBRE  
+**Nombre:** Sebastian Araya Piro  
 **Carrera:** Ingeniería en Informática  
 **Asignatura:** Tendencias Emergentes en Inteligencia Artificial
 
@@ -45,7 +45,7 @@ Se creó un repositorio llamado **AI_Project**, agregando un archivo README y un
 Se clonó el repositorio desde GitHub utilizando Git y Visual Studio Code mediante el comando:
 
 ```bash
-git clone https://github.com/TU_USUARIO/AI_Project.git
+git clone https://github.com/Dlink-bot/AI_project.git
 ```
 
 ### Captura
