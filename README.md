@@ -2,7 +2,7 @@
 
 ## Actividad Formativa: GitHub Copilot
 
-**Nombre:** TU NOMBRE  
+**Nombre:** Sebastian araya piro  
 **Carrera:** Ingeniería en Informática  
 **Asignatura:** Tendencias Emergentes en Inteligencia Artificial
 
@@ -36,7 +36,7 @@ Se creó un repositorio llamado **AI_Project**, agregando un archivo README y un
 
 ### Captura
 
-![Repositorio](images/captura1.png)
+![Repositorio](imagenes/captura1.png)
 
 ---
 
@@ -45,12 +45,12 @@ Se creó un repositorio llamado **AI_Project**, agregando un archivo README y un
 Se clonó el repositorio desde GitHub utilizando Git y Visual Studio Code mediante el comando:
 
 ```bash
-git clone https://github.com/TU_USUARIO/AI_Project.git
+git clone https://github.com/Dlink-bot/AI_project.git
 ```
 
 ### Captura
 
-![Clonación](images/captura2.png)
+![Clonación](imagenes/captura2.png)
 
 ---
 
@@ -80,7 +80,7 @@ El programa generado permite:
 
 ### Captura
 
-![GitHub Copilot](images/captura3.png)
+![GitHub Copilot](imagenes/captura3.png)
 
 ---
 
@@ -98,7 +98,7 @@ git push origin main
 
 ### Captura
 
-![Repositorio actualizado](images/captura4.png)
+![Repositorio actualizado](imagenes/captura4.png)
 
 ---
 
